@@ -1,1 +1,5 @@
 # BareMetalDriver
+
+#GPIO
+#SPI
+#UART
